@@ -92,4 +92,39 @@
 
     - Function Parameter: an “input” of a function. A function can have any (reasonable) number of parameters, even zero!
 
-    - If Statement: 
+    - Return Value: the “output” of a function. If no return value is defined for a Javascript function, it will return undefined.
+
+
+### NODE
+* Node: an engine for executing Javascript code outside the browser.
+
+* RESOURCES: 
+    - https://nodejs.dev/learn
+
+    - https://developer.mozilla.org/en-US/docs/Learn/Server-side/Express_Nodejs/Introduction
+
+    - https://www.tutorialspoint.com/nodejs/nodejs_introduction.htm
+
+* VOCABULARY:
+
+- Module: in software, a reusable piece of code that provides an interface to use it in other code. Javascript modules written by other people can be downloaded and used in your own code through npm. In node, individual files can be considered modules.
+
+- module.exports: A Node keyword that allows you to define code from a file that should be available outside of the file.
+
+- NPM: a Javascript package manager that allows you to download and use external code within your own codebase.
+
+- package.json: a file that acts as the central repository where you configure metadata, dependencies, tools, and scripts for your node.js project.
+
+- Linter: a tool that analyzes your code to find syntactic and stylistic errors.
+
+- ESLint: the primary Javascript linter. It helps us keep our code style and syntax standard and correct, and can even correct style mistakes automatically.
+
+- Dependency: a piece of software that your code requires to run. In Node, dependencies can be specified in a package.json file and stored in a node_modules directory.
+
+- devDependencies: dependencies that are flagged in the package.json file to only be installed when running Node in development mode
+
+- node_modules: the standard directory in a node project where external modules are stored.
+
+- Test Driven Development: a software methodology in which you begin by writing a test for functionality you intend to implement, then write the code to implement that functionality.
+
+- Behavior Driven Development: an Agile development practice in which you define the desired behaviors of your code through test assertions, then write the production code itself.
