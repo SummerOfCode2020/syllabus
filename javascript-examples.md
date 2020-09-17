@@ -31,8 +31,12 @@
 
 ![Screen Shot 2020-09-17 at 5 24 34 PM](https://user-images.githubusercontent.com/55325202/93529908-b9c66e80-f90a-11ea-8345-22a5e1391ef1.png) 
 
-- `else if` Code: ![Screen Shot 2020-09-17 at 5 33 55 PM](https://user-images.githubusercontent.com/55325202/93530691-fe9ed500-f90b-11ea-9a73-cb44458a4c28.png)
+- `else if` Code: 
 
-    - `switch` Syntax: ![Screen Shot 2020-09-17 at 5 38 11 PM](https://user-images.githubusercontent.com/55325202/93531060-a0bebd00-f90c-11ea-92d9-2478da5e08ca.png)
+![Screen Shot 2020-09-17 at 5 33 55 PM](https://user-images.githubusercontent.com/55325202/93530691-fe9ed500-f90b-11ea-9a73-cb44458a4c28.png)
 
-    - `switch` Code: 
+- `switch` Syntax: 
+
+![Screen Shot 2020-09-17 at 5 38 11 PM](https://user-images.githubusercontent.com/55325202/93531060-a0bebd00-f90c-11ea-92d9-2478da5e08ca.png)
+
+- `switch` Code: 
