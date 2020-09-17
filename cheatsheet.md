@@ -1,32 +1,32 @@
 ### GIT COMMANDS
-* GIT BRANCH - Allows you to see a list of all your current branches and the one youre currently working in.
+* `git branch` - Allows you to see a list of all your current branches and the one youre currently working in.
 
-* GIT CHECKOUT "Branch name":  This is used to move between your branches.
+* `git checkout "Branch name"`:  This is used to move between your branches.
 
-* GIT CHECKOUT -B "Branch name":  Creates a new branch and switches to it.
+* `git checkout -b "Branch name"`:  Creates a new branch and switches to it.
 
-* GIT STATUS: Lets you know if there are any files that have changes that need to be moved to your staging area.
+* `git status`: Lets you know if there are any files that have changes that need to be moved to your staging area.
 
-* GIT ADD .: Used to move a set of changes from your working area to your staging area.
+* `git add .`: Used to move a set of changes from your working area to your staging area.
 
-* GIT COMMIT -M "Comment detailing changes": This gets your file ready to be pushed from your local.
+* `git commit -m "Comment detailing changes"`: This gets your file ready to be pushed from your local.
 
-* GIT PULL: Used to fetch all the changes from the remote and sync them with your local.
+* `git pull`: Used to fetch all the changes from the remote and sync them with your local.
 
-* GIT PUSH: Used to push changes from your local repository and sync them with the remote.
+* `git push`: Used to push changes from your local repository and sync them with the remote.
 
-* GIT CLONE "Repository link": Used to clone a remote repository and sync it with your local.
+* `git clone "Repository link"`: Used to clone a remote repository and sync it with your local.
 
-* GIT INIT: The "init" command creates a brand new Git repository.
+* `git init`: The "init" command creates a brand new Git repository.
 
 ### NODE COMMANDS
-* NPM INSTALL: Used when you see a node module to install its dependencies.
+* `npm install`: Used when you see a node module to install its dependencies.
 
-* NPM RUN DEV: Makes the local host accessible and runs everything listed in the packacge.json.
+* `npm run dev`: Makes the local host accessible and runs everything listed in the packacge.json.
 
-* NPM INIT -Y: Creates a package.json while also answering yes to all the questions that follow the init.
+* `npm init -y`: Creates a package.json while also answering yes to all the questions that follow the init.
 
-* NODE "FILE_NAME": Is used to run a test on a single file, usually to view the results of a consol.log().
+* `node "FILE_NAME"`: Is used to run a test on a single file, usually to view the results of a consol.log().
 
 
 ### HTML & CSS 
@@ -107,6 +107,10 @@
 ### NODE
 * Node: an engine for executing Javascript code outside the browser.
 
+* NPM: a Javascript package manager that allows you to download and use external code within your own codebase.
+
+* NPX: This is a npm package runner. The typical use is to download and run a package temporarily or for trials.
+
 * RESOURCES: 
     - https://nodejs.dev/learn
 
@@ -114,13 +118,17 @@
 
     - https://www.tutorialspoint.com/nodejs/nodejs_introduction.htm
 
+    - https://www.freecodecamp.org/news/npm-vs-npx-whats-the-difference/
+
+    - https://www.geeksforgeeks.org/what-are-the-differences-between-npm-and-npx/
+
+    - https://docs.npmjs.com/cli/npm
+
 * VOCABULARY:
 
 - Module: in software, a reusable piece of code that provides an interface to use it in other code. Javascript modules written by other people can be downloaded and used in your own code through npm. In node, individual files can be considered modules.
 
 - module.exports: A Node keyword that allows you to define code from a file that should be available outside of the file.
-
-- NPM: a Javascript package manager that allows you to download and use external code within your own codebase.
 
 - package.json: a file that acts as the central repository where you configure metadata, dependencies, tools, and scripts for your node.js project.
 
@@ -137,4 +145,3 @@
 - Test Driven Development: a software methodology in which you begin by writing a test for functionality you intend to implement, then write the code to implement that functionality.
 
 - Behavior Driven Development: an Agile development practice in which you define the desired behaviors of your code through test assertions, then write the production code itself.
-
