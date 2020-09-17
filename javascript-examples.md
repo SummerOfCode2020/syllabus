@@ -11,11 +11,14 @@
 
 
 * CODE EXAMPLES: 
-    - `if` Syntax: ![Screen Shot 2020-09-17 at 4 17 36 PM](https://user-images.githubusercontent.com/55325202/93525490-1f632c80-f904-11ea-9d89-92eeba6c5c38.png)
+    - `if` Syntax: 
+    ![Screen Shot 2020-09-17 at 4 17 36 PM](https://user-images.githubusercontent.com/55325202/93525490-1f632c80-f904-11ea-9d89-92eeba6c5c38.png)
 
-    - `if` Code:![Screen Shot 2020-09-17 at 5 07 51 PM](https://user-images.githubusercontent.com/55325202/93528490-6521f400-f908-11ea-8de4-ffa0fcfafca0.png)
+    - `if` Code:
+    ![Screen Shot 2020-09-17 at 5 07 51 PM](https://user-images.githubusercontent.com/55325202/93528490-6521f400-f908-11ea-8de4-ffa0fcfafca0.png)
 
-    - `else` Syntax: ![Screen Shot 2020-09-17 at 4 59 56 PM](https://user-images.githubusercontent.com/55325202/93527784-5f77de80-f907-11ea-88c8-1ba4655a21cf.png)
+    - `else` Syntax:
+     ![Screen Shot 2020-09-17 at 4 59 56 PM](https://user-images.githubusercontent.com/55325202/93527784-5f77de80-f907-11ea-88c8-1ba4655a21cf.png)
 
     - `else` Code: ![Screen Shot 2020-09-17 at 5 20 44 PM](https://user-images.githubusercontent.com/55325202/93529611-3573eb80-f90a-11ea-9ef9-9f28b1a733dc.png)
 
