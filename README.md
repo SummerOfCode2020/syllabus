@@ -107,10 +107,10 @@ Order Book - 8/13/2020
 
 
 ## Template for Weeks 11, 12
-
+In these two weeks you will be familiarizing yourself with React and how to build front end applications with React.
 
 ### Challenges
-
+Some challenges you might face could be 
 
 ### Due Dates
 
