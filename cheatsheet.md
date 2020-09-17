@@ -94,6 +94,15 @@
 
     - Return Value: the “output” of a function. If no return value is defined for a Javascript function, it will return undefined.
 
+    - Braces: or curly braces, refer to the { and } symbols. These symbols are used to wrap Javascript objects.
+
+    - Brackets: or square brackets, refer to the [ and ] symbols. These symbols are used to wrap Javascript arrays.
+
+    - Property: a value stored on an object, accessible by its key via “dot notation” (object.property). They are used similarly to the way variables are used outside an object.
+
+    - Method: a function stored on an object, accessible by its name key via “dot notation” (object.method(). They are used similarly to the way functions are used outside an object.
+
+    - Destructuring: in Javascript, an assignment syntax used as a “shortcut” to easily create new variables and set their values equal to a property inside an object.
 
 ### NODE
 * Node: an engine for executing Javascript code outside the browser.
@@ -128,3 +137,4 @@
 - Test Driven Development: a software methodology in which you begin by writing a test for functionality you intend to implement, then write the code to implement that functionality.
 
 - Behavior Driven Development: an Agile development practice in which you define the desired behaviors of your code through test assertions, then write the production code itself.
+
