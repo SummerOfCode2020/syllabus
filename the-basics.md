@@ -151,10 +151,6 @@
 
 ## Links to be organized later: 
 
-- MongoDB for msql & DB section: 
-    *https://www.w3schools.com/nodejs/nodejs_mongodb.asp
-    *https://www.freecodecamp.org/news/mongodb-node-express-project/
-
 - odin project (Maybe make a free online tools section with teaching courses and maybe demo videos?): 
     * https://www.theodinproject.com/tracks/full-stack-javascript
     * (`git` intro) https://www.theodinproject.com/courses/web-development-101/lessons/git-basics 
