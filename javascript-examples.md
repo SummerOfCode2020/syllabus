@@ -74,14 +74,10 @@
 ![Screen Shot 2020-09-21 at 11 50 42 AM](https://user-images.githubusercontent.com/55325202/93790155-b5e36680-fc00-11ea-8ccc-69e9e8538c39.png)
 
 - `while` Syntax:
-
-![Screen Shot 2020-09-21 at 11 53 53 AM](https://user-images.githubusercontent.com/55325202/93790618-3dc97080-fc01-11ea-8723-99b7a5d318d1.png)
-
 ```
-function upToEight(number) {
-    while (number < 8){
-        number++
-    }
+while (condition) {
+   /* Block of code to be executed */
 }
-console.log(upToEight(1))
 ```
+
+
