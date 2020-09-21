@@ -76,3 +76,12 @@
 - `while` Syntax:
 
 ![Screen Shot 2020-09-21 at 11 53 53 AM](https://user-images.githubusercontent.com/55325202/93790618-3dc97080-fc01-11ea-8723-99b7a5d318d1.png)
+
+```
+function upToEight(number) {
+    while (number < 8){
+        number++
+    }
+}
+console.log(upToEight(1))
+```
