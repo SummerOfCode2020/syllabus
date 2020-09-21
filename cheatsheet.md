@@ -145,3 +145,19 @@
 - Test Driven Development: a software methodology in which you begin by writing a test for functionality you intend to implement, then write the code to implement that functionality.
 
 - Behavior Driven Development: an Agile development practice in which you define the desired behaviors of your code through test assertions, then write the production code itself.
+
+
+
+
+## Links to be organized later: 
+
+- MongoDB for msql & DB section: 
+    *https://www.w3schools.com/nodejs/nodejs_mongodb.asp
+    *https://www.freecodecamp.org/news/mongodb-node-express-project/
+
+- odin project (Maybe make a free online tools section with teaching courses and maybe demo videos?): 
+    * https://www.theodinproject.com/tracks/full-stack-javascript
+    * (`git` intro) https://www.theodinproject.com/courses/web-development-101/lessons/git-basics 
+
+- git (make a section for git above):
+    * https://education.github.com/git-cheat-sheet-education.pdf
