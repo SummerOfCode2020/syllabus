@@ -27,10 +27,12 @@ Info for each homework. Note which slides homework is mentioned.
 to implement a strictEqual() function. Material for this assignment can be found within the week 03 slides.
 
 ### Classwork Links
+- Week 1: https://github.com/john-rice/week-01-review
 - Week 2: https://github.com/SummerOfCode2020/week-02-javascript
 - Week 3: https://github.com/SummerOfCode2020/week-03-review
 
 ### Homework Links
+- Week 1 & 2: https://github.com/john-rice/web-calculator
 - Week 3: https://github.com/SummerOfCode2020/week-03-tdd-strict-equal
 
 ### Class Recordings
