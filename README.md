@@ -88,7 +88,7 @@ In these weeks you will learn about HTTP methods, Express, and Rest API's. We wi
 This will be your first time working with these so some challenges you might experience could understanding the way they all work and how to implement it into your code.
 
 ### Due Dates
-TV Synopsis - 8/04/2020
+store-manager-api - 8/04/2020
 Order Book - 8/13/2020
 
 ### Slides
@@ -97,9 +97,7 @@ Order Book - 8/13/2020
 *Week 10: https://docs.google.com/presentation/d/1eQFt5m_QwoIg_QGivc8H6U4EYsp4mmP1owXj3a-lsdU/edit#slide=id.g6d647d4f19_0_306
 
 ### Homework
-*tv-synopsis: You will be provided with data and screenshots of expected site behavior, your task is to implement an Express/Pug powered site that meets the requirements.
-
-
+* store-manager-api: To assist you with your industry project you have been given the base code for creating a database and you have been tasked to add on to it.
 
 ### Portfolio Projects
 *Order-book: For this portfolio project you will be required to create a function and write out the code needed to have all the tests pass.
@@ -110,16 +108,75 @@ Order Book - 8/13/2020
 In these two weeks you will be familiarizing yourself with React and how to build front end applications with React.
 
 ### Challenges
-Some challenges you might face could be 
+Some challenges you might face could be understanding the differences between frontend and backend development and how they connect and work together. 
 
 ### Due Dates
+store-manager-api: 8/18
+storefront: 8/25
+Portfolio site: 9/30
 
 ### Slides
+* Week 11: https://docs.google.com/presentation/d/1hfLIL_W62dTm0Gzz30qyMT4qKhFBUwrayhzW1BN9dfA/edit#slide=id.g7dde7ba88c_0_0
+
+* Week 12: https://docs.google.com/presentation/d/1NwamhV-J2l9q1XTdzfcf38O85d-NdvyhU1KzYwTB0ck/edit#slide=id.g7534b42916_0_115
+
+### Homework
+* store-manager-api: For week 11 you will continue to impement the things youve learned in class to improve your store manager api.
+
+* storefront: Your assignmet is to use what you learned in class and add on to your storefront.
+
+### Portfolio Projects
+Portfolio site: Using the skills you've learned from the bootcamp you will make a webpage that you can show to possible employers.
+
+
+
+## Template for Weeks 13, 14, 15
+In these three weeks we will be going over testing with react and creating mysql databases.
+
+
+### Challenges
+Some challenges you might face is understanding and getting familiar with MYSql and sequelize.
+
+### Due Dates
+personal website: 9/1
+sequelize basics: 9/8
+sequelize relationships: 9/25
+Portfolio site: 9/30
+
+### Slides
+* Week 13: https://docs.google.com/presentation/d/1yh5b3RxThgSV8-0pqOBt6ncMjI8hxxdHZmDRkEN6khE/edit#slide=id.g8482debcff_0_12
+
+* Week 14: https://docs.google.com/presentation/d/1wobe3gumB5bEvHHHvQh8mt7EnGOiB45-gFmi-n5sDnA/edit#slide=id.g934ec527f3_2_0
+
+* https://docs.google.com/presentation/d/117N3AYQiJHfCioizCZL7SU6WcfEWpVMlrcvFcsmYyoA/edit
+
+### Homework
+* Personal Website: Using your knowledge youve gained between week 10-12 you've been given the challenge of making your own webpage. 
+
+* Sequelize Basics: You've just been introduce to MYSql and sequelize and have been given code that was worked on together in class. Your task was to use what youve learned and create your own model.
+
+* Sequelize Relationships: Your goal is to create a REST API for accessing data.
+
+### Portfolio Projects
+Portfolio site: Using the skills you've learned from the bootcamp you will make a webpage that you can show to possible employers.
+
+
+## Template for Weeks 16, 17
+In these two weeks we are covering data migrations, and an introduction to DevOps.
+
+### Challenges
+As the course comes to a close some challenges you might face may be having a basic understanding with Mysql and sequelize and feeling confident with your skills. You may also struggle with understanding DevOps.
+
+### Due Dates
+Portfolio site: 9/30
+
+### Slides
+* Week 16: https://docs.google.com/presentation/d/1iW-S1GMHovBFuwnBmGw-EayFRhxHwLOLBW_pbMuHsyc/edit#slide=id.g8cc63ba538_0_0
+
+* Week 17: https://docs.google.com/presentation/d/1gTV_iTf2L-9kGAJcfQyFs9uWWjeeIyu17pgsfN8mUjM/edit#slide=id.g7ddeec0c90_0_0
 
 ### Homework
 
 
-
-
 ### Portfolio Projects
-
+Portfolio site: Using the skills you've learned from the bootcamp you will make a webpage that you can show to possible employers. 
