@@ -5,6 +5,7 @@ In these weeks we introduced you to the basics of HTML, JavaScript, CSS, how to 
 
 ### Challenges
 Some challenges you may have faced during these first few weeks could've been struggling with the syntax, understanding data types, and functions.
+
 ### Due Dates
 About Me - 6/2/2020
 Web calculator part 1 - 6/9/2020
