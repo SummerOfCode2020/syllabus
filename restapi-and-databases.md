@@ -93,6 +93,8 @@
 
     - https://gist.github.com/zcaceres/742744b708393c022703b615d1bffbb1
 
+    - https://sequelize.org/v5/manual/querying.html
+
 * Vocabulary:
     - Data Model: an abstract model specifying how entities relate to one another in the real world
 
@@ -115,3 +117,13 @@
     - Compound Key: a primary key made up of more than one column
 
     - Entity Relationship Diagram (ERD): a specific type of diagram that lays out database tables with all their columns and relationships in a visual manner
+
+    - Database Migration: code defining a discrete, incremental, reversible change to the database. The “up” part of the migration contains code to make the change, and the “down” part is the code to undo it.
+
+    - Command-Line Interface (CLI): your terminal; the text-based interface to interact with your computer.
+
+    - Slug: a human-readable unique identifier.
+
+    - Data Control Language (DCL): the subset of SQL used for interacting with the data within tables, including syntax to insert, update, and delete individual rows from SQL tables.
+
+    - Wildcard Character:  a placeholder character that substitutes for zero to many characters for the purpose of matching. In MySQL the wildcard character is %.
