@@ -13,6 +13,8 @@
 
     - https://www.npmjs.com/package/body-parser
 
+    - https://marketplace.visualstudio.com/items?itemName=humao.rest-client
+
 * Vocabulary:
     - Middleware: In Express.js (and some other web frameworks), a function that helps process a request to the server. Each middleware receives the request and response object, does some operation, and then passes the request and response to the next middleware function in line.
 
