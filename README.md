@@ -1,6 +1,6 @@
 # syllabus for Summer 2020
 
-## Template for Weeks 01, 02, 03
+## Weeks 01, 02, 03 Introduction to HTML, JS & CSS
 In these weeks we introduced you to the basics of HTML, JavaScript, CSS, how to opperate github and learned basic git commands.
 
 ### Challenges
@@ -26,9 +26,29 @@ Info for each homework. Note which slides homework is mentioned.
 *Test Driven Development: You will be tasked with using TDD to
 to implement a strictEqual() function. Material for this assignment can be found within the week 03 slides.
 
+### Classwork Links
+- Week 1: 
+- Week 2: https://github.com/SummerOfCode2020/week-02-javascript
+- Week 3: https://github.com/SummerOfCode2020/week-03-review
+
+### Homework Links
+- Week 3: https://github.com/SummerOfCode2020/week-03-tdd-strict-equal
+
+### Class Recordings
+- Week 1: https://drive.google.com/file/d/1WSiq_S3Ww9DtjD7HjaylaTwI6N8zP_xE/view?usp=sharing
+
+- Week 2: 
+    - https://drive.google.com/file/d/19NQMk-u2iRzuLp5zjG36L5uYKKQw4Ach/view?usp=sharing
+    - https://drive.google.com/file/d/10hSaxWKJCion7XMbFRxtbjXF88fE6R9z/view?usp=sharing
+
+- Week 3: 
+    - https://drive.google.com/file/d/1FInSE-ZkckzV--ZVw27n6HA2VF6J_zj-/view?usp=sharing
+    - https://drive.google.com/file/d/1v0DnHezOcMBc6VheVeTOhU0AyEalk6JO/view?usp=sharing
 
 
-## Template for Weeks 04, 05, 06 
+
+
+## Weeks 04, 05, 06 Debugging & Understanding the basics of Syntax
 In these weeks you will learn how to use the Visual Studio Code debugger, breakdown and learn how to read lines of code, and spend time in class writing if statements and different types of loops.
 
 ### Challenges
@@ -57,9 +77,48 @@ Order Book - 8/13/2020
 ### Portfolio Projects
 *Order-book: For this portfolio project you will be required to create a function and write out the code needed to have all the tests pass.
 
+### Classwork Links
+- Week 4:
+    - https://github.com/SummerOfCode2020/week-04-classwork
+    - https://github.com/SummerOfCode2020/week-04-forking-from-the-org
+
+- Week 5: 
+    - https://github.com/SummerOfCode2020/week-05-basics-review
+    - https://github.com/SummerOfCode2020/week-05-reading-code-part-01
+    - https://github.com/SummerOfCode2020/week-05-reading-code-part-02
+    - https://github.com/SummerOfCode2020/week-05-thursday
+
+- Week 6: 
+    - https://github.com/SummerOfCode2020/week-06-classwork
+    - https://github.com/SummerOfCode2020/week-06-classwork-thursday
+
+### Homework Links
+- Week 4: https://github.com/SummerOfCode2020/week-04-fantasy-scoring
+
+- Week 5: https://github.com/SummerOfCode2020/week-05-password-validator
+
+- Week 6:
+    - https://github.com/SummerOfCode2020/week-06-homework-hazy-calculator
+    - https://github.com/SummerOfCode2020/week-06-haziest-extra-credit
+    - https://github.com/SummerOfCode2020/week-06-homework-10-10-10-challenge
+
+### Class Recordings 
+- Week 4:
+    - https://drive.google.com/file/d/1DwS69M8B6baBQzAAcn3831xOq5S5BNn1/view?usp=sharing
+    - https://drive.google.com/file/d/1Wkv4kFaabn_uqm0o-yAtG30syVayqh_K/view?usp=sharing
+
+- Week 5: 
+    - https://drive.google.com/file/d/1Gc1NwVZA8VaZ9Xo765YmBcbcyLtUaMO0/view?usp=sharing
+    - https://drive.google.com/file/d/1T5BVu6rlZO0zfshl7AvBkiyy0VJFKYaW/view?usp=sharing
+
+- Week 6: 
+    - https://drive.google.com/file/d/1cCsnzak0Q2Qbzvtl25RG6FMjSt7pZFad/view?usp=sharing
+    - https://drive.google.com/file/d/1b8GI6eq4mr5buulGpQiwAEd3DmSvV-e0/view?usp=sharing
 
 
-## Template for Weeks 07, 08
+
+
+## Weeks 07, 08 Functional Programming 
 In these weeks we go over functional programing and introduce you to the .filter(), .map(), and .reduce() methods. We also introduced you to the weekly 10-10-10 challnges were our goal is to get you to create various functions to better your skill and understanding of JavaScript.
 
 ### Challenges
@@ -79,9 +138,37 @@ Order Book - 8/13/2020
 ### Portfolio Projects
 *Order-book: For this portfolio project you will be required to create a function and write out the code needed to have all the tests pass.
 
+### Classwork Links 
+- Week 7: 
+    - https://github.com/SummerOfCode2020/week-07-classwork-price-is-right
+    - https://github.com/SummerOfCode2020/week-07-classwork-head-of-the-class
+    - https://github.com/SummerOfCode2020/week-07-classwork
+    - https://github.com/SummerOfCode2020/week-07-classwork-thursday
+
+- Week 8:
+    - https://github.com/SummerOfCode2020/week-08-classwork-array-methods
+    - https://github.com/SummerOfCode2020/week-08-classwork-array-reduce
+
+### Homework Links
+- Week 7:
+    - https://github.com/SummerOfCode2020/week-07-homework-perfect-lineup
+    - https://github.com/SummerOfCode2020/week-07-homework-10-10-10-challenge
+
+- Week 8: https://github.com/SummerOfCode2020/week-08-homework-10-10-10-challenge
+
+### Class Recordings
+- Week 7:
+    - https://drive.google.com/file/d/1--BotNHXLBRD9XG-K2xnyxQpOkX14fXd/view?usp=sharing
+    - https://drive.google.com/file/d/1juRGlYl57LCnfOZ6e60jukN_7IZZFIIO/view?usp=sharing
+
+- Week 8: 
+    - https://drive.google.com/file/d/1bCRT1Tx_YzHxBumDLDmdqQsZmbSMe1Ai/view?usp=sharing
+    - https://drive.google.com/file/d/11IXWcMabp4319PVfqOWFqP41y0uozPz4/view?usp=sharing
 
 
-## Template for Weeks 09, 10
+
+
+## Weeks 09, 10 Express HTTP and API Servers 
 In these weeks you will learn about HTTP methods, Express, and Rest API's. We will cover the purposes for each and how to use them.
 
 ### Challenges
@@ -102,9 +189,33 @@ Order Book - 8/13/2020
 ### Portfolio Projects
 *Order-book: For this portfolio project you will be required to create a function and write out the code needed to have all the tests pass.
 
+### Classwork Links
+- Week 9: 
+    - https://github.com/SummerOfCode2020/week-09-classwork-express-web
+    - https://github.com/SummerOfCode2020/week-09-classwork-pug-express
+    - https://github.com/SummerOfCode2020/week-09-classwork-duck-hunt
+
+- Week 10: https://github.com/SummerOfCode2020/week-10-express-api
+
+### Homework Links
+- Week 9:
+    - https://github.com/SummerOfCode2020/week-09-homework-tv
+    - https://github.com/SummerOfCode2020/week-09-homework-10-10-10-challenge
+
+- Week 10:
+    - https://github.com/SummerOfCode2020/week-10-store-manager-api
+
+### Class Recordings 
+- Week 9:
+    - https://drive.google.com/file/d/1ZW7lKPWA64RX03icegWKtvVPr2pamFMe/view?usp=sharing
+    - https://drive.google.com/file/d/1KKaOgpsMW4hiDk4BIgwziSKR5CXL76uu/view?usp=sharing
+
+- Week 10:
+    - https://drive.google.com/file/d/1xog2q2erOw_sskY_axmflnDSOKfojbIs/view?usp=sharing
+    - https://drive.google.com/file/d/1GywpSEjOWuvpAi2IwY-O4fFDfnK2KUqg/view?usp=sharing
 
 
-## Template for Weeks 11, 12
+## Weeks 11, 12 REACT & Frontend Development
 In these two weeks you will be familiarizing yourself with React and how to build front end applications with React.
 
 ### Challenges
@@ -128,11 +239,33 @@ Portfolio site: 9/30
 ### Portfolio Projects
 Portfolio site: Using the skills you've learned from the bootcamp you will make a webpage that you can show to possible employers.
 
+### Classwork Links
+- Week 11: 
+    - https://github.com/SummerOfCode2020/week-11-react-create-react-app
+
+- Week 12:
+    - https://github.com/SummerOfCode2020/week-12-store-manager-api
+    - https://github.com/SummerOfCode2020/week-12-react-forms-bootstrap
+
+### Homework Links
+- Week 11: https://github.com/SummerOfCode2020/week-11-homework-react-math-calc
+
+- Week 12: https://github.com/SummerOfCode2020/week-12-storefront
+
+### Class Recordings
+- Week 11:
+    - https://drive.google.com/file/d/1f8IIrANu5inMAZV2or8jbccl5RwoilxR/view?usp=sharing
+    - https://drive.google.com/file/d/1pJLApXpx8hY7dLGs4xGhFIwEVeCIMx5z/view?usp=sharing
+
+- Week 12:
+    - https://drive.google.com/file/d/1mHDjTny3JDImyZNMOG18KYRzh2M4eUUk/view?usp=sharing
+    - https://drive.google.com/file/d/1w_U7t5VeThr-74N67BbXdMiN0lX42YRT/view?usp=sharing
 
 
-## Template for Weeks 13, 14, 15
+
+
+## Weeks 13, 14, 15 Testing with REACT & Understanding MYSql Relationships
 In these three weeks we will be going over testing with react and creating mysql databases.
-
 
 ### Challenges
 Some challenges you might face is understanding and getting familiar with MYSql and sequelize.
@@ -160,8 +293,39 @@ Portfolio site: 9/30
 ### Portfolio Projects
 Portfolio site: Using the skills you've learned from the bootcamp you will make a webpage that you can show to possible employers.
 
+### Classwork Links 
+- Week 13: 
+    - https://github.com/SummerOfCode2020/week-13-testing-react-with-enzyme
+    - https://github.com/SummerOfCode2020/week-13-highlights-and-questions
 
-## Template for Weeks 16, 17
+- Week 14: https://github.com/SummerOfCode2020/week-14-sql-and-sequelize
+
+- Week 15: https://github.com/SummerOfCode2020/week-15-sql-relationships
+
+### Homework Links
+- Week 13: https://github.com/SummerOfCode2020/week-13-app-from-scatch
+
+- Week 14: https://github.com/SummerOfCode2020/week-14-sql-and-sequelize
+
+- Week 15: https://github.com/SummerOfCode2020/week-15-sql-relationships
+
+### Class Recordings
+- Week 13:
+    - https://drive.google.com/file/d/1QnEd62kdXRNglBAUjIX8VI1IF7ybCZen/view?usp=sharing
+    - https://drive.google.com/file/d/1bXHv8yybDf8XBufUtPkTSuh8lsAzaytZ/view?usp=sharing
+
+- Week 14: 
+    - https://drive.google.com/file/d/1bXHv8yybDf8XBufUtPkTSuh8lsAzaytZ/view?usp=sharing
+    - https://drive.google.com/file/d/15siILVBXhB80pMBv6Xe4vE3bgY_63Cg3/view?usp=sharing
+
+- Week 15: 
+    - https://drive.google.com/file/d/10ghTIYD3FW7fOelu5ykQFIW1xe6doiWD/view?usp=sharing
+    - https://drive.google.com/file/d/1hRikE7LWWW74SrzYk257bVqTWtpcghK_/view?usp=sharing
+
+
+
+
+## Weeks 16, 17 Data Migrations & DevOps Introduction
 In these two weeks we are covering data migrations, and an introduction to DevOps.
 
 ### Challenges
@@ -180,3 +344,14 @@ Portfolio site: 9/30
 
 ### Portfolio Projects
 Portfolio site: Using the skills you've learned from the bootcamp you will make a webpage that you can show to possible employers. 
+
+### Classwork Links
+- Week 16: https://github.com/SummerOfCode2020/week-16-super-hero-app
+
+### Homework Links
+- Week 16: https://github.com/SummerOfCode2020/week-16-super-hero-app
+
+### Class Recordings
+- Week 16:
+    - https://drive.google.com/file/d/1DUbPUNfdjKyVIx6X0LnXfLVA7lVzp8qk/view?usp=sharing
+    - https://drive.google.com/file/d/1zj7efol3ZZ6A_DH7T8LCz-SRWyy-Cauu/view?usp=sharing
