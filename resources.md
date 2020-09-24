@@ -17,6 +17,12 @@
 
 - https://books.goalkicker.com/MySQLBook/
 
+- https://books.goalkicker.com/HTML5Book/
+
+- https://books.goalkicker.com/CSSBook/
+
+- https://books.goalkicker.com/GitBook/
+
 - https://books.goalkicker.com/JavaScriptBook/
 
 - https://eloquentjavascript.net/
@@ -26,6 +32,8 @@
 - https://books.goalkicker.com/NodeJSBook/
 
 - https://books.goalkicker.com/ReactJSBook/
+
+- https://books.goalkicker.com/SQLBook/
 
 - https://books.goalkicker.com/AlgorithmsBook/
 
