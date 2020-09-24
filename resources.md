@@ -51,3 +51,15 @@
     - Week 8: https://github.com/SummerOfCode2020/week-08-homework-10-10-10-challenge
 
     - Week 9: https://github.com/SummerOfCode2020/week-09-homework-10-10-10-challenge
+
+
+### Node_modules
+- Node: https://www.npmjs.com/package/node
+
+- Moach: https://www.npmjs.com/package/mocha
+
+- Chai: https://www.npmjs.com/package/chai
+
+- Sequelize: https://www.npmjs.com/package/sequelize
+
+- Body-Parser: https://www.npmjs.com/package/body-parser
