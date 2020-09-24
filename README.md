@@ -352,6 +352,8 @@ Portfolio site: Using the skills you've learned from the bootcamp you will make 
 ### Classwork Links
 - Week 16: https://github.com/SummerOfCode2020/week-16-super-hero-app
 
+- Week 17: https://github.com/SummerOfCode2020/week-17-palindrome-checker
+
 ### Homework Links
 - Week 16: https://github.com/SummerOfCode2020/week-16-super-hero-app
 
@@ -359,3 +361,6 @@ Portfolio site: Using the skills you've learned from the bootcamp you will make 
 - Week 16:
     - https://drive.google.com/file/d/1DUbPUNfdjKyVIx6X0LnXfLVA7lVzp8qk/view?usp=sharing
     - https://drive.google.com/file/d/1zj7efol3ZZ6A_DH7T8LCz-SRWyy-Cauu/view?usp=sharing
+
+- Week 17: 
+    - https://drive.google.com/file/d/1LmVE-y9uJp-iUrX8g34pOVtiJSxv43eY/view?usp=sharing
